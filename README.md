@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tee, an <a href="https://linkedin.com/in/t-lucas-780a67218">IT Professional</a>☺</h1>
+<h1>Hi, I'm Tee El, an <a href="https://linkedin.com/in/t-lucas-780a67218">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
