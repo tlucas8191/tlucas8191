@@ -11,7 +11,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/tlucas8191/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/tlucas8191/osticket-post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/tlucas8191/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/tlucas8191/osticket-ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [VPN Setup and Usage (Proton VPN)](https://github.com/tlucas8191/configure-ad)
   - [Configuring Active Directory within Azure VMs / Deploying Active Directory and Creating Users](https://github.com/tlucas8191/configure-ad)
