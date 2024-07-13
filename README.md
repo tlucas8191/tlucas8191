@@ -10,7 +10,7 @@
   - [Observing RDP Traffic](https://github.com/tlucas8191/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/tlucas8191/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/tlucas8191/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/tlucas8191/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tlucas8191/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [VPN Setup and Usage (Proton VPN)](https://github.com/tlucas8191/configure-ad)
