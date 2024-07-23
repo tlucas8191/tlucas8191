@@ -11,7 +11,7 @@
 - <b>Microsoft Azure</b>
   - [VPN Setup and Usage (Proton VPN)](https://github.com/tlucas8191/virtual-private-networks)
   - [Configuring Active Directory within Azure VMs / Deploying Active Directory and Creating Users](https://github.com/tlucas8191/configure-ad)
-  - [Building Intuition for DNS](https://github.com/tlucas8191/azure-network-protocols)
+  - [Building Intuition for DNS](https://github.com/tlucas8191/domain-name-systems)
   - [Network File Shares and Permissions](https://github.com/tlucas8191/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
