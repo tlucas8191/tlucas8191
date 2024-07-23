@@ -3,11 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Performing Activities on the Network</b>
-  - [Observing ICMP Traffic](https://github.com/tlucas8191/osticket-prereqs)
-  - [Observing SSH Traffic](https://github.com/tlucas8191/post-install-config)
-  - [Observing DHCP Traffic](https://github.com/tlucas8191/ticket-lifecycle)
-  - [Observing DNS Traffic](https://github.com/tlucas8191/configure-ad)
-  - [Observing RDP Traffic](https://github.com/tlucas8191/azure-network-protocols)
+  - [Observing Different Types of Network Traffic](https://github.com/tlucas8191/osticket-prereqs)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/tlucas8191/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/tlucas8191/osticket-post-install-config)
