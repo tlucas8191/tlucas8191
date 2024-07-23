@@ -9,7 +9,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/tlucas8191/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tlucas8191/osticket-ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [VPN Setup and Usage (Proton VPN)](https://github.com/tlucas8191/configure-ad)
+  - [VPN Setup and Usage (Proton VPN)](https://github.com/tlucas8191/Virtual-Private-Network)
   - [Configuring Active Directory within Azure VMs / Deploying Active Directory and Creating Users](https://github.com/tlucas8191/configure-ad)
   - [Building Intuition for DNS](https://github.com/tlucas8191/azure-network-protocols)
   - [Network File Shares and Permissions](https://github.com/tlucas8191/azure-network-protocols)
