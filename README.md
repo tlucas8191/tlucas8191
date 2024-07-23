@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Performing Activities on the Network</b>
-  - [Observing Different Types of Network Traffic](https://github.com/tlucas8191/osticket-prereqs)
+  - [Observing Different Types of Network Traffic](https://github.com/tlucas8191/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/tlucas8191/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/tlucas8191/osticket-post-install-config)
